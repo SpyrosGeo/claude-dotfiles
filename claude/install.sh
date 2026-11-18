@@ -12,6 +12,7 @@ paths=(
   hooks/caveman-statusline.sh
   skills/graphify
   skills/review-code
+  skills/that-review
 )
 for p in "${paths[@]}"; do
   mkdir -p "$dst/$(dirname "$p")"

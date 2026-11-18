@@ -1,0 +1,23 @@
+symbolPreset: unicode
+composer:
+  shape: claude
+theme:
+  dark: dark-forest
+  light: light-forest
+update:
+  auto: true
+setupVersion: 3
+modelRoles:
+  default: anthropic/claude-opus-5-5:medium
+statusLine:
+  preset: full
+tui:
+  titleState: true
+startup:
+  quiet: true
+  setupWizard: true
+  changelogMode: hidden
+retry:
+  fallbackChains:
+    default:
+      - github-copilot/gpt-6.1-sol

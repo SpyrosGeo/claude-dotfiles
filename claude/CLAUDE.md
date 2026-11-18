@@ -1,3 +1,1 @@
-# graphify
-- **graphify** (`~/.claude/skills/graphify/SKILL.md`) - any input to knowledge graph. Trigger: `/graphify`
-When the user types `/graphify`, use the installed graphify skill or instructions before doing anything else.
+- Never run `git commit` (or amend, push, or otherwise create commits) unless the user explicitly asks you to commit.

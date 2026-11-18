@@ -10,7 +10,6 @@ paths=(
   ask-settings.json
   agents/ask.md
   hooks/caveman-statusline.sh
-  skills/graphify
   skills/review-code
   skills/that-review
 )

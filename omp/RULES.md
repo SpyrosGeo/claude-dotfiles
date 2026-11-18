@@ -1,0 +1,1 @@
+- Never commit (`git commit`, the eval `commit` helper, amend, or push) unless the user explicitly asks you to commit.

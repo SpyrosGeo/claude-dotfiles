@@ -5,6 +5,7 @@ src="$(cd "$(dirname "$0")" && pwd)"
 dst="$HOME/.omp/agent"
 paths=(
   config.yml
+  RULES.md
   agents/cavecrew-builder.md
   agents/cavecrew-investigator.md
   agents/cavecrew-reviewer.md
